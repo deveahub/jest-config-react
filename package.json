@@ -1,0 +1,17 @@
+{
+  "name": "jest-config-react",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rrios-dev/jest-config-react"
+  },
+  "license": "MIT",
+  "files": [
+    "./jest.config.js",
+    "./babel.config.js"
+  ],
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "jest-config-node": "*"
+  }
+}
